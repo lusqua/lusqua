@@ -24,4 +24,4 @@ I don't have anything very relevant yet, but I'm developing new stuff daily, but
 
 From time to time I post some things I have learned on my [Youtube](https://www.youtube.com/channel/UCNmf0farlHlsuu0xA0DwGeQ) channel. 
 
-![](https://raw.githubusercontent.com/lusqua/lusqua/3efcd51d5cb7020fe741a1bfd5b0ab72d817d9df/snk_gif.svg)
+![](https://raw.githubusercontent.com/lusqua/lusqua/d24d24c456dd614e9604efaa955d010d889ebc91/snk_gif.svg)
